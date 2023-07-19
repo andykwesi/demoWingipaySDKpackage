@@ -1,7 +1,7 @@
 //
 //  SimpleNetworking.swift
 //
-//  Created by Mohammad Azam on 10/1/21.
+//  Created by Andy Kwesi on 5/7/23.
 //
 
 import Foundation
