@@ -22,7 +22,7 @@ public class HelloWorld{
 
 public class Webservice {
     
-    public init() { } 
+    // public init() { } 
     
     public func fetch<T: Codable>(url: URL, parse: @escaping (Data) -> T?, completion: @escaping (Result<T?, NetworkError>) -> Void)  {
         
