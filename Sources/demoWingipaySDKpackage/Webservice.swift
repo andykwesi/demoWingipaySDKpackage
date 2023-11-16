@@ -11,6 +11,15 @@ public enum NetworkError: Error {
     case decodingError
 }
 
+public class HelloWorld{
+    public init(){}
+    
+    
+    public func printMessage(messageString : String){
+        print(messageString)
+    }
+}
+
 public class Webservice {
     
     public init() { } 
